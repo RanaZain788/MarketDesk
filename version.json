@@ -1,7 +1,7 @@
 {
-  "version": "0.0.8",
-  "name": "MarketDesk v0.0.8",
-  "changelog": "v0.0.8: Ultra-fast dynamic draft saving with instant GraphQL interceptor (0-delay), smart network-resilient short-circuiting, guaranteed 'More details' expansion, verified Marketplace location switcher, and redesigned high-visibility app icon.",
-  "download_url": "https://github.com/RanaZain788/MarketDesk/releases/download/v0.0.8/MarketDesk_Setup_v0.0.8.exe",
+  "version": "0.0.9",
+  "name": "MarketDesk v0.0.9",
+  "changelog": "v0.0.9: Unified Multi-Account Marketplace Messenger Hub, Product Rules & Price Matrix popup, Smart Human AI Negotiator with hard floor price guard, Confirmed Orders CRM, and instant WhatsApp order alerts.",
+  "download_url": "https://github.com/RanaZain788/MarketDesk/releases/download/v0.0.9/MarketDesk_Setup_v0.0.9.exe",
   "published_at": "2026-11-02"
 }
