@@ -1,0 +1,5 @@
+# Protect proprietary source code: only publish updater metadata and README to GitHub
+*
+!version.json
+!README.md
+!.gitignore
